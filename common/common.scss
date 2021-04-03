@@ -22,6 +22,7 @@ $max-width: 700px;
   }
   box-sizing: border-box;
   position: relative;
+  height: 40vh;
   padding: 2.5em 0 3em;
   margin: 1em auto;
   @include breakpoint(tablet) {
