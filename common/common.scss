@@ -24,6 +24,9 @@ $max-width: 700px;
   position: relative;
   height: 50vh;
   padding: 2.5em 0 3em;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
   margin: 1em auto;
   @include breakpoint(tablet) {
     padding: 1em 8px 2em;
@@ -64,6 +67,9 @@ $max-width: 700px;
     color: white;
     border: 0;
     border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
   }
 
   h1 {
